@@ -118,5 +118,4 @@ Dataset Collection
 ## Author
 
 **Saira Jabeen**
-BS Artificial Intelligence – 6th Semester
-Roll No: 23-AI-10
+BS Artificial Intelligence
