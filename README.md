@@ -378,9 +378,9 @@ Plant Disease Classification Using Computer Vision
 The report covers the dataset, preprocessing, Computer Vision techniques, deep learning models, transfer learning, fine-tuning, evaluation, challenges, and conclusion.
 
 ## Author:
-Saira Jabeen
-Kainat Moin
-Hafsa Naz
+Saira Jabeen,
+Kainat Moin,
+Hafsa Naz,
 Sabiha Pirzadah
 
 Artificial Intelligence Student
