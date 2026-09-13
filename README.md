@@ -289,7 +289,7 @@ Plant_Village_Disease_Classification/
 ```
 ## Notebook:
 
-OEL_CV_1 (1).ipynb
+plant_disease_classification.ipynb
 
 Contains the implementation of:
 
@@ -304,7 +304,7 @@ Prediction
 
 ## Report:
 
-Plant Disease Classification (Report).pdf
+plant_disease_classification_report.pdf
 
 Contains the project documentation, methodology, models, challenges, solutions, and conclusion.
 
