@@ -315,7 +315,7 @@ git clone https://github.com/SairaJabeen10/Plant_Village_Disease_Classification.
 
 Open:
 
-OEL_CV_1 (1).ipynb
+plant_disease_classification.ipynb
 
 using Jupyter Notebook, JupyterLab, or Google Colab.
 
